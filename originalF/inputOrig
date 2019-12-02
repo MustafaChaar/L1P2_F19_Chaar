@@ -9,7 +9,7 @@ GRID_disc_2          	yyy    number of cells in the y direction
 GRID_X_2             	0.      starting coordinate (left edge of first cell)
 GRID_Lx_2            	2.       grid length
 --------DIRECTION z             ignored if Ndim < 3
-GRID_disc_3          	1       number of cells in the z direction
+GRID_disc_3          zzzz       number of cells in the z direction
 GRID_X_3             	0.      starting coordinate (left edge of first cell)
 GRID_Lx_3            	3.       grid length
 ============================================================================

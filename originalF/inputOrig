@@ -1,5 +1,5 @@
 # GRID #
-GRID_Ndim             	2    	Ndim number of dimension (1D or 2D or 3D)
+GRID_Ndim             	3    	Ndim number of dimension (1D or 2D or 3D)
 --------DIRECTION x
 GRID_disc_1             xxxx    number of cells in the x direction
 GRID_X_1             	0.      starting coordinate (left edge of first cell carefull for EM2C expe cf gsp)
